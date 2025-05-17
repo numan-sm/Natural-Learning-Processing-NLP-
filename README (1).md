@@ -1,2 +1,2 @@
 # NLP-Projects
-This repository contains NLP projects for IMDb sentiment analysis and news article classification.
+This repository contains Natural Learning Processing (NLP) projects for IMDb sentiment analysis and news article classification.
